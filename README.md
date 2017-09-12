@@ -1,2 +1,2 @@
 # codewars
-My Codewars code
+My Codewars code for solving Katas etc
